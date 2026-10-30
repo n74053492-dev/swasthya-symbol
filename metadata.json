@@ -1,0 +1,6 @@
+{
+  "name": "Swasthya Symbol | Occupational Health Early Warning System",
+  "description": "Occupational health early warning and surveillance system monitoring clinic visits, sickness absence, and environmental hazards across work sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
